@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /header.html
+Disallow: /header
+Disallow: /footer.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://inclusive-it.tilda.ws/sitemap.xml
+Sitemap: http://inclusive-it.tilda.ws/sitemap-feeds.xml
+Host: inclusive-it.tilda.ws
